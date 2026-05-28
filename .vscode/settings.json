@@ -1,0 +1,37 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "algorithm": "cpp",
+    "initializer_list": "cpp",
+    "type_traits": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp",
+    "xhash": "cpp",
+    "ios": "cpp",
+    "xiosbase": "cpp",
+    "vector": "cpp",
+    "utility": "cpp",
+    "set": "cpp",
+    "map": "cpp",
+    "chrono": "cpp",
+    "string": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "deque": "cpp",
+    "format": "cpp",
+    "list": "cpp",
+    "queue": "cpp",
+    "random": "cpp",
+    "regex": "cpp",
+    "stack": "cpp",
+    "valarray": "cpp",
+    "xtree": "cpp",
+    "xmemory": "cpp",
+    "unordered_set": "cpp",
+    "ostream": "cpp"
+  },
+
+  // ✅ Add this line:
+  "tasks.defaultBuildTask": "Build and Run C++ (with input/output files)"
+}
